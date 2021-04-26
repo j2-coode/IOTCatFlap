@@ -2,7 +2,7 @@ from os import path
 from sys import exit, version_info
 
 from PIL import Image, ImageDraw, ImageFont
-
+#test
 try:
     from smbus import SMBus
 except ImportError:
